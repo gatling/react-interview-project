@@ -1,4 +1,4 @@
-## Gatling Corp JS project
+## Gatling Corp React project
 
 The goal of this small project is to create a small webapp displaying users and their related posts (data are located on [jsonplaceholder](https://jsonplaceholder.typicode.com)). 
 
