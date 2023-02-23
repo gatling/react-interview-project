@@ -1,7 +1,7 @@
 import React, {FunctionComponent, useEffect, useState} from 'react';
 import axios from "axios";
 
-type User = {
+export type User = {
     id: number,
     name: string,
     username: string
